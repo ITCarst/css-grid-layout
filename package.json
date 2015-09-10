@@ -1,0 +1,31 @@
+{
+  "name": "css_grid_templates",
+  "version": "0.0.0",
+  "description": "CSSS grid generated tempaltes",
+  "author": "Ionut Carst<itcarst@carst.me> {https//:carst.me}",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IonutC/css-grid-template.git"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-livereload" : "latest",
+    "gulp-notify" : "latest",
+    "gulp-minify-css": "latest",
+    "gulp-rename" : "latest",
+    "gulp-sass" : "latest",
+    "gulp-uglify": "latest",
+    "gulp-clean" : "latest"
+  },
+  "bugs": {
+    "url": "https://github.com/IonutC/css-grid-template/issues"
+  },
+  "keywords": [
+    "css gird",
+    "css",
+    "grid tempaltes"
+  ]
+}
